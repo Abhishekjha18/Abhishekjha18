@@ -1,22 +1,10 @@
-<h1 align="center">Hi 👋, I'm Parth Rastogi</h1>
-<h3 align="center">A B-Tech CSE student and Data Science enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthrastogicoder&label=Profile%20views&color=0e75b6&style=flat" alt="parthrastogicoder" /> </p>
-
-- 🔭 I’m currently working on **Dynamic Bayesian Network for Causal Learning**
-
-- 🌱 I’m currently learning **ML and federated learning **
-
-- 👯 I’m looking to collaborate on **Same**
-
-- 💬 Ask me about **R, Python ,Java, C++, C, SQL**
-
-- 📄 Know about my experiences I am currently Working on a Startup www.robify.in
+<h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
+<h3 align="center">A B-Tech Electronics and VLSI student and Researcher from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parth-rastogi-151444258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-rastogi-151444258" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parthnocodz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthnocodz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-jha-b3bb17270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-jha-b3bb17270" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
