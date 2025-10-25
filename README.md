@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A B-Tech Electronics and VLSI student and Researcher from India</h3>
+<h3 align="center">A B-Tech Electronics and VLSI student and ML Researcher from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
